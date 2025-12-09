@@ -6,27 +6,27 @@ Jarvis is a Python-based virtual assistant capable of listening to voice command
 
 🚀 Features
 
-Feature	                          Description
-
-🎤 Voice Recognition	            Listens for commands using microphone
-🗣 Smart Speech Response	        Talks back using natural speech
-🌐 Web Automation	                Opens Google, YouTube, Facebook, LinkedIn
-🎶 Media Playback	                Plays songs via custom music library
-📰 News Headlines	                Fetches top headlines via NewsAPI
-🤖 AI Responses	                  Uses Generative AI for smart answers
-🎯 Hands-Free Wake Word	          Say "Jarvis" to activate
+| Feature | Description |
+|--------|-------------|
+| 🎤 Voice Recognition | Listens for commands using microphone |
+| 🗣 Smart Speech Response | Replies with natural-sounding voice |
+| 🌐 Web Automation | Opens Google, YouTube, Facebook, LinkedIn |
+| 🎶 Media Playback | Plays songs via custom music library |
+| 📰 News Headlines | Fetches top headlines via NewsAPI |
+| 🤖 AI Responses | Uses Generative AI for smart replies |
+| 🎯 Wake Word | Say `"Jarvis"` to activate hands-free |
 
 
 🛠️ Tech Stack
 
-Python
-SpeechRecognition
-PyAudio
-gTTS + Pygame (Text-to-Speech)
-Requests API
-NewsAPI Integration
-Webbrowser Automation
-Google Generative AI (optional)
+-Python,
+-SpeechRecognition,
+-PyAudio,
+-gTTS + Pygame (Text-to-Speech),
+-Requests API,
+-NewsAPI Integration,
+-Webbrowser Automation,
+-Google Generative AI.
 
 
 🔑 Environment Setup (API Secret Safety)
@@ -48,12 +48,12 @@ Then say:
 
 Example commands:
 
-"Open Google"
-"Play shape"
-"News"
-"Tell me something"
-"Open YouTube"
-"What is AI?"
+"Open Google",
+"Play shape",
+"News",
+"Tell me something", 
+"Open YouTube",
+"What is AI?",
 
 📁 Project Structure
 Jarvis-AI-Assistant/
