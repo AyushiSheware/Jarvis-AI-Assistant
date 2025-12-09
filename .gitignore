@@ -1,0 +1,10 @@
+main_with_comments.py
+question.txt
+__pycache__/
+*.db
+*.pbit
+*.png
+*.jpg
+*.jpeg
+*.mp3
+.env
