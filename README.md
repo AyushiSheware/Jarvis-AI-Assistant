@@ -33,7 +33,7 @@ Google Generative AI (optional)
 
 Create a .env file:
 
-GOOGLE_API_KEY=your_api_key_here
+GOOGLE_API_KEY=your_api_key_here,
 NEWS_API_KEY=your_api_key_here
 
 In client.py, API keys are used from environment variables to keep them secure.
