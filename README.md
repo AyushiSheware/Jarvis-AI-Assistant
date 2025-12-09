@@ -32,10 +32,10 @@ Jarvis is a Python-based virtual assistant capable of listening to voice command
 🔑 Environment Setup (API Secret Safety)
 
 Create a .env file:
-
+```bash
 GOOGLE_API_KEY=your_api_key_here,
 NEWS_API_KEY=your_api_key_here
-
+```
 In client.py, API keys are used from environment variables to keep them secure.
 
 
@@ -53,8 +53,9 @@ Example commands:
 "News",
 "Tell me something", 
 "Open YouTube",
-"What is AI?",
+"What is AI?"
 
+```bash
 📁 Project Structure
 Jarvis-AI-Assistant/
 │ main.py
@@ -62,7 +63,7 @@ Jarvis-AI-Assistant/
 │ musicLibrary.py
 │ requirements.txt
 │ .gitignore
-
+```
 🌟 Future Enhancements
 
 Add Reminder & Calendar system
